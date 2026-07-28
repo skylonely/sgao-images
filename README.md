@@ -1,0 +1,2 @@
+# sgao-images
+Image storage
